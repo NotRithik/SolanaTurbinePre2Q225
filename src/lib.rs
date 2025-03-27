@@ -17,7 +17,7 @@ mod tests {
         transaction::Transaction,
     };
 
-    use crate::programs::Turbin3_prereq::{CompleteArgs, TurbinePrereqProgram, UpdateArgs};
+    use crate::programs::Turbin3_prereq::{CompleteArgs, TurbinePrereqProgram};
 
     const RPC_URL: &str = "https://api.devnet.solana.com";
 
