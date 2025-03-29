@@ -1,4 +1,4 @@
-# SolanaTurbinePre2Q225
+# Turbin3 Solana Prerequisite - Part 2 (Rust)
 
 This repository contains the Rust code developed for Part 2 of the Turbin3 Solana prerequisite assessment (targeting Q2 2025 cohort program ID). It demonstrates fundamental interactions with the Solana blockchain using the Rust SDK, mirroring the tasks from Part 1 (TypeScript).
 
